@@ -90,7 +90,7 @@ public class Engine implements Runnable{
                     frames = 0;
                 }
 
-                // to allow the game to render
+                // To allow the game to render
                 render = true;
             }
 
